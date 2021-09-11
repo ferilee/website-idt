@@ -11,7 +11,8 @@ categories:
 
 ## 正文测试
 
-Halo
+contoh embed shortcodes
+{{< pkk >}}
 
 ## 引用
 
