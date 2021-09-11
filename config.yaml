@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Indonesia Digital Teacher
 ignoreErrors: ["error-remote-getjson"]
 
 # Change it to your Disqus shortname before using
@@ -36,14 +36,14 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Bersama membangun relasi dan belajar menjadi pengajar profesional, inovatif, kreatif, dan berkualitas.
         avatar:
             enabled: true
             local: true
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
@@ -127,14 +127,14 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: ferilee
 
             # Available values: summary, summary_large_image
             card: summary_large_image
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
             src:
 
@@ -163,7 +163,7 @@ menu:
           pre: home
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
+              newTab: false
 
 related:
     includeNewer: true
