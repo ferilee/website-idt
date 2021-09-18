@@ -1,5 +1,5 @@
 ---
-title: About
+title: Profil
 description: Profil Indonesia Digital Teacher
 date: '2021-09-16'
 aliases:
