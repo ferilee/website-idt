@@ -10,9 +10,9 @@ aliases = ["migrate-from-jekyl"]
 image = "hugo-logo-wide.png"
 +++
 
-# Personal website
-## hai
-> tes
->> **Contoh 1.1 :** $ 4^3 = 4 \times 4 \times 4 $
-
-halooo
+# Hugo
+## Tema Hugo Profile
+https://github.com/gurusabarish/hugo-profile
+### Langkah-langkah
+![Contoh menyisipkan gambar](01-use-this-template.png)\
+![Contoh menyisipkan gambar](02-create-repository.png)
