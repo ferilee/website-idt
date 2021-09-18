@@ -27,7 +27,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -157,7 +157,7 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home
+          name: Beranda
           url: /
           weight: -100
           pre: home

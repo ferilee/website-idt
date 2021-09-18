@@ -1,8 +1,8 @@
 +++
 author = "Ferilee"
-title = "Membuat website dengan Hugo"
+title = "Membuat Personal Website dengan Hugo"
 date = "2021-09-17"
-description = "Framework tercepat di dunia untuk pengembangan sebuah website"
+description = "Framework pembuat website tercepat di dunia."
 tags = [
     "hugo",
     "website"
@@ -14,3 +14,6 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "hugo-logo-wide.png"
 +++
+
+# Personal website
+## hai
