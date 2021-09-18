@@ -16,7 +16,7 @@ googleAnalytics:
 DefaultContentLanguage: id
 
 permalinks:
-    post: /:slug/
+    post: /p/:slug/
     page: /:slug/
 
 params:
