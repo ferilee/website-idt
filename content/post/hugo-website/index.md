@@ -14,5 +14,17 @@ image = "hugo-logo-wide.png"
 ## Tema Hugo Profile
 https://github.com/gurusabarish/hugo-profile
 ### Langkah-langkah
-![Contoh menyisipkan gambar](01-use-this-template.png)\
-![Contoh menyisipkan gambar](02-create-repository.png)
+![Langkah-1: Duplikasi template](01-use-this-template.jpg)\
+![Langkah-2: Memberikan nama repository](02-nama-repo.jpg)\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
+![]()\
