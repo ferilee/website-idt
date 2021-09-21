@@ -10,21 +10,34 @@ aliases = ["migrate-from-jekyl"]
 image = "hugo-logo-wide.png"
 +++
 
-# Hugo
+Membuat Personal Website dengan Hugo
 ## Tema Hugo Profile
 https://github.com/gurusabarish/hugo-profile
-### Langkah-langkah
-![Langkah-1: Duplikasi template](01-use-this-template.jpg)\
-![Langkah-2: Memberikan nama repository](02-nama-repo.jpg)\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
-![]()\
+### Menggunakan Template Hugo Profile
+![](01-use-this-template.png)
+### Menggunakan Template Hugo Profile
+![](02-nama-repo.png)
+### Menggunakan Template Hugo Profile
+![](03-new-site-from-git.png)
+### Menggunakan Template Hugo Profile
+![](04-connect-to-git.png)
+### Menggunakan Template Hugo Profile
+![](05-pilih-repo-netlify.png)
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
+### Menggunakan Template Hugo Profile
+![]()
