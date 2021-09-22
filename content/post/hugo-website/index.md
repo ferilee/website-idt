@@ -1,4 +1,4 @@
-+++
+ +++
 author = "Ferilee"
 title = "Membuat Personal Website dengan Hugo"
 date = "2021-09-17"
@@ -9,8 +9,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "hugo-logo-wide.png"
 +++
-
-Membuat Personal Website dengan Hugo
+## Membuat Personal Website dengan Hugo
 ## Tema Hugo Profile
 https://github.com/gurusabarish/hugo-profile
 ### Menggunakan Template Hugo Profile
