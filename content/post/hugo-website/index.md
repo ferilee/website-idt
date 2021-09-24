@@ -37,7 +37,7 @@ Sebelum mulai membuat website dengan Hugo, pastikan Anda memiliki ketiga akun in
 
 ## Hugo Template
 Hugo menyediakan puluhan template yang keren dan siap pakai. Untuk keperluan latihan kali ini, Anda bisa menggunakan salah satu template yang dipilihkan oleh Trainer IDT yaitu Hugo Profile.
-Langkah menggunakan template ini:
+Langkah-langkah menggunakan template ini:
 1. Login ke akun github Anda
 2. klik >> https://github.com/gurusabarish/hugo-profile
 3. klik tombol `use this template` untuk menggunakan template ini.
@@ -48,7 +48,7 @@ Langkah menggunakan template ini:
 
 ## Netlify
 Anda kini telah memiliki repository yang berisi template hugo-profile di github. Langkah berikutnya adalah men-deploy repository tersebut menggunakan netlify sehingga website Anda bisa diakses oleh orang lain.
-Langkah men-deploy repository:
+Langkah-langkah men-deploy repository:
 1. Login [netlify](https://app.netlify.com) menggunakan akun github Anda.
 2. Klik tombol `New site from Git`
 ![](03-new-site-from-git.png)
@@ -68,32 +68,34 @@ Langkah men-deploy repository:
 ![](11-preview-site.png)
 
 ## Forestry
+Forestry adalah sebuah CMS yang akan membantu Anda membuat artikel/ _post_ secara cepat tanpa harus menguasai bahasa pemrograman.
+Langkah-langkah membuat artikel dengan menggunakan forestry:
+1. Login [forestry](https://forestry.io/) menggunakan akun github Anda.
 ![](12-login-forestry.png)
-### Menggunakan Template Hugo Profile
 ![](13-login-via-github.png)
-### Menggunakan Template Hugo Profile
+2. Tambahkan website dengan menekan tombol `Add site`
 ![](14-tambahkan-situs.png)
-### Menggunakan Template Hugo Profile
+3. Pada Static Site Generator, pilih `Hugo`.
 ![](15-pilih-ssg.png)
-### Menggunakan Template Hugo Profile
+4. Pilih `Github` pada provider Git.
 ![](16-pilih-provider-git.png)
-### Menggunakan Template Hugo Profile
+5. Pilih repository yang ingin Anda pakai dan pada bagian `config path` ketikkan `website/config.yaml`. Klik tombol `check for config` untuk mencari keberadaan file konfigurasi website Anda. Klik tombol `Next` jika file konfirasi ditemukan (_config file found_).
 ![](17-pilih-repository.png)
-### Menggunakan Template Hugo Profile
-![](18-mark-all-as-done.png)
-### Menggunakan Template Hugo Profile
+6. Klik tombol `mark as done` pada proses setup, lalu klik tombol `complete setup` untuk menuntaskan pengaturan.
+![](18-mark-all-as-done.png)\
 ![](19-complete-setup.png)
-### Menggunakan Template Hugo Profile
+### Membuat Artikel (_Post_) Baru
+1. Template yang Anda salin di bagian awal tutorial ini memberikan 4 artikel sebagai contoh. Artikel ini bisa Anda edit/ ganti atau hapus jika tidak diperlukan.
 ![](20-jumlah-post.png)
-### Menggunakan Template Hugo Profile
+2. Untuk membuat artikel (_post_) baru, klik tombol `Create New > Blog`
 ![](21-membuat-post-baru.png)
-### Menggunakan Template Hugo Profile
+3. Buat template untuk artikel baru `(Create template)`
 ![](22-membuat-template-blog.png)
-### Menggunakan Template Hugo Profile
+4. Buat template dari dokumen yang sudah tersedia `(Create based on existing document)`
 ![](23-pilih-dari-dokumen-yangada.png)
-### Menggunakan Template Hugo Profile
+5. Isikan parameternya seperti contoh pada gambar berikut. Klik tombol `Create template` untuk mengakhiri.
 ![](24-isikan-parameternya.png)
-### Menggunakan Template Hugo Profile
+6. Ketikkan judul artikel, nama penulis, dan isi artikel. Pastikan untuk menonaktifkan draft `(Draft > off)` lalu simpan/ save agar artikel muncul di website Anda.
 ![](25-isi-semua-field.png)
-### Menggunakan Template Hugo Profile
+7. Lihat hasilnya di alamat website Anda.
 ![](26-view-site.png)
