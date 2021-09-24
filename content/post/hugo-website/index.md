@@ -47,16 +47,27 @@ Langkah menggunakan template ini:
 ![](02-nama-repo.png)
 
 ## Netlify
+Anda kini telah memiliki repository yang berisi template hugo-profile di github. Langkah berikutnya adalah men-deploy repository tersebut menggunakan netlify sehingga website Anda bisa diakses oleh orang lain.
+Langkah men-deploy repository:
+1. Login [netlify](https://app.netlify.com) menggunakan akun github Anda.
+2. Klik tombol `New site from Git`
 ![](03-new-site-from-git.png)
+3. Hubungkan dengan provider Git, pilih `Github`.
 ![](04-connect-to-git.png)
+4. Pilih repository yang sudah dibuat di Github sebelumnya.
 ![](05-pilih-repo-netlify.png)
+5. Klik tombol `Deploy site` untuk mulai men-deploy repository Anda.
 ![](06-deploy-site.png)
-![](07-site-setting.png)
-![](08-change-site-name.png)
+6. Ganti nama website Anda melalui menu `Site settings > Change site name`
+![](07-site-setting.png)\
+![](08-change-site-name.png)\
 ![](09-site-name.png)
+7. Simpan alamat website Anda dan bagikan kepada teman/ saudara/ kenalan melalui media sosial (facebook/ whatsapp/ telegram/ instagram atau yang lainnya)
 ![](10-alamat-netlify.png)
+8. Berikut adalah tampilan website yang sudah berhasil Anda deploy.
 ![](11-preview-site.png)
-### Forestry
+
+## Forestry
 ![](12-login-forestry.png)
 ### Menggunakan Template Hugo Profile
 ![](13-login-via-github.png)
