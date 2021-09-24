@@ -36,31 +36,27 @@ Sebelum mulai membuat website dengan Hugo, pastikan Anda memiliki ketiga akun in
 * [forestry](forestry.io)
 
 ## Hugo Template
-Hugo menyediakan puluhan template yang keren dan siap pakai. Untuk keperluan latihan kali ini, Anda bisa menggunakan salah satu template yang dipilihkan oleh Trainer IDT yaitu Hugo Profile. Untuk menggunakan template ini, silakan klik https://github.com/gurusabarish/hugo-profile
-
-## Menggunakan Template Hugo Profile
+Hugo menyediakan puluhan template yang keren dan siap pakai. Untuk keperluan latihan kali ini, Anda bisa menggunakan salah satu template yang dipilihkan oleh Trainer IDT yaitu Hugo Profile.
+Langkah menggunakan template ini:
+1. Login ke akun github Anda
+2. klik >> https://github.com/gurusabarish/hugo-profile
+3. klik tombol `use this template` untuk menggunakan template ini.
 ![](01-use-this-template.png)
-### Memberikan nama repository baru
+4. Isikan nama repository baru yang akan digunakan untuk menyimpan template. Sebagai contoh, penulis memberikan nama `blog` sebagai nama repository baru seperti pada gambar berikut.
+5. Klik tombol `Create repository from template` untuk mulai menyalin template ke repository Anda.
 ![](02-nama-repo.png)
-### Menggunakan Template Hugo Profile
+
+## Netlify
 ![](03-new-site-from-git.png)
-### Menggunakan Template Hugo Profile
 ![](04-connect-to-git.png)
-### Menggunakan Template Hugo Profile
 ![](05-pilih-repo-netlify.png)
-### Menggunakan Template Hugo Profile
 ![](06-deploy-site.png)
-### Menggunakan Template Hugo Profile
 ![](07-site-setting.png)
-### Menggunakan Template Hugo Profile
 ![](08-change-site-name.png)
-### Menggunakan Template Hugo Profile
 ![](09-site-name.png)
-### Menggunakan Template Hugo Profile
 ![](10-alamat-netlify.png)
-### Menggunakan Template Hugo Profile
 ![](11-preview-site.png)
-### Menggunakan Template Hugo Profile
+### Forestry
 ![](12-login-forestry.png)
 ### Menggunakan Template Hugo Profile
 ![](13-login-via-github.png)
