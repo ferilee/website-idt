@@ -33,7 +33,7 @@ Kali ini IDT membuat panduan/ tutorial membuat website statis yang keren dan cep
 Sebelum mulai membuat website dengan Hugo, pastikan Anda memiliki ketiga akun ini terlebih dahulu:
 * [github](github.com)
 * [netlify](netlify.com)
-* [forestry](forestry.io)
+* [forestry](forestry.io)\
 Untuk netlify dan forestry login menggunakan akun github.
 
 ## Hugo Template
