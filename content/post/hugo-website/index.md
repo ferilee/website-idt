@@ -34,6 +34,7 @@ Sebelum mulai membuat website dengan Hugo, pastikan Anda memiliki ketiga akun in
 * [github](github.com)
 * [netlify](netlify.com)
 * [forestry](forestry.io)
+Untuk netlify dan forestry login menggunakan akun github.
 
 ## Hugo Template
 Hugo menyediakan puluhan template yang keren dan siap pakai. Untuk keperluan latihan kali ini, Anda bisa menggunakan salah satu template yang dipilihkan oleh Trainer IDT yaitu Hugo Profile.
