@@ -15,6 +15,4 @@ categories:
 {{< canva >}}\
 tes tambah kata
 
-coba lagi
-
-coba sekali lagi
+tes edit pakai acode
