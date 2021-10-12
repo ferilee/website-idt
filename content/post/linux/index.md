@@ -13,6 +13,4 @@ categories:
 ---
 
 {{< canva >}}\
-tes tambah kata
-
-tes edit pakai acode
+Edit pakai acode
