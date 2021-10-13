@@ -1,5 +1,5 @@
 ---
-title: "Video Pembelajaran"
+title: "Membuat Video Pembelajaran Interaktif"
 date: 2021-09-11T23:42:15+07:00
 draft: false
 author: "Ferilee"
