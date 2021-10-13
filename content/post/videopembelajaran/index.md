@@ -17,9 +17,9 @@ categories:
 | Pengenalan Canva | 2 |
 | Dasar - dasar Canva | 3 |
 | Mengelola Teks | 4 |
-| Menambahkan Elemen | 3 |
-| Video dan Animasi | 5 |
-| Tugas Proyek | 14 |
+| Menambahkan Elemen | 4 |
+| Video dan Animasi | 6 |
+| Tugas Proyek | 12 |
 | Total | 32 |
 
 
