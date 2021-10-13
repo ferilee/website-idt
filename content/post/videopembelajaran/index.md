@@ -16,11 +16,18 @@ categories:
 | Pengantar | 1 |
 | Pengenalan Canva | 2 |
 | Dasar - dasar Canva | 3 |
-| Mengelola Teks | 4 |
-| Menambahkan Elemen | 4 |
+| Bermain dengan Teks | 4 |
+| Elemen Canva | 4 |
 | Video dan Animasi | 6 |
 | Tugas Proyek | 12 |
 | Total | 32 |
 
+## Pengantar
+## Pengenalan Canva
+## Dasar-dasar Canva
+## Bermain dengan Teks
+## Elemen Canva
+## Video dan Animasi
+## Tugas Proyek
 
 {{< canva >}}
