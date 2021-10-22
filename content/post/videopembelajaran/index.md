@@ -60,6 +60,9 @@ Jenis konten visual yang bisa dibuat dengan Canva adalah
 
 ![Undangan bergabung dengan Tim di Canva](undangan-tim-canva.png)
 
+Setelah berhasil bergabung, Canva akan memberikan ucapan selamat bergabung seperti ini
+![Ucapan selamat bergabung](welcomescreen-joingroup.png)
+
 >**Langkah ketiga**, untuk menciptakan konten visual Anda bisa memulai dengan tiga cara yaitu: ` mendesain dengan template, mendesain dari awal, mengunggah atau mengimpor PDF desain Anda.`
 ![Mulai membuat desain](buat-desain.png) ![Pilihan template yang disarankan](buat-desain-expand.png)
 
@@ -80,10 +83,37 @@ Jika Anda menginginkan membuat desain baru dari awal, tentukan dimensi (ukuran d
 ### Mengunggah atau mengimpor PDF desain Anda
 Fitur ini masih dalam tahap beta, sehingga masih belum optimal hasilnya. Disarankan untuk tidak menggunakan fitur ini sampai versi stabilnya. Jika Anda ingin mencobanya, silakan siapkan file PDFnya kemudian impor ke Canva.
 
+### Bagian - bagian Canva
+Bagian-bagian Canva bisa dilihat pada gambar berikut ini:
+![Bagian-bagian Canva](area-kerja-canva2.png)
+* tools (template, elemen, unggahan, foto, teks, gaya, audio, latar belakang, logo, lainnya). Canva menyediakan tools untuk Anda gunakan dalam membuat konten visual.
+![Tools Canva](tools.png)
+
+* Stage and timeline, pada bagian ini (stage) Anda akan melihat tampilan hasil dan timeline yang berfungsi untuk mengatur waktu desain tersebut muncul.
+![Stage and timeline](stage-timeline.png)
+Seperti halnya pada presentasi, Anda bisa menambahkan efek transisi dan animasi halaman atau elemen untuk mempercantik tampilan.
+
 ## Bermain dengan Teks
+Canva menyediakan beragam jenis font, mulai font reguler sampai kombinasi (*typography*). Anda boleh memilih jenis font yang disukai dan menggantinya dengan teks yang diinginkan.
+![Properti Teks](teks.png)
+![Contoh Teks](teks-2.png)
+
 ## Elemen Canva
+Selain teks, Canva juga menyediakan banyak elemen-elemen grafis seperti garis dan bentuk, audio, video, foto, bagan, bingkai, dan lain-lain.  
+![Elemen-elemen grafis](elemen.png)
+![Contoh Elemen](elemen-2.png)
+
 ## Video dan Animasi
+Canva memungkinkan untuk digunakan sebagai alat bantu desain yang berisikan konten video dan animasi. Canva menyediakan koleksi video dan animasi yang bisa Anda gunakan dalam karya Anda.
+
+Apabila Anda tidak menemukan aset video pada koleksi Canva, Anda bisa mengunggah video pembelajaran melalui bilah unggahan.
+![Aset yang diunggah](unggahan.png)
+
 ## Bekerja Kolaboratif
+Siapapun bisa bekerja secara kolaboratif di Canva. Setiap orang bisa mengubah desain untuk menghasilkan karya yang sempurna.
+![Kolaborasi antar anggota tim](kolaboratif.png)
+
 ## Tugas Proyek
+Silakan buat desain media pembelajaran sesuai mapel yang diampu dan kemudian diekspor dalam bentuk video dengan format mp4. Hasilnya diunggah ke media sosial (facebook, instagram, youtube, dan lain-lain).
 
 {{< canva >}}
