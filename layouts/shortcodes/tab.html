@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: "Lato", sans-serif;}
+
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+
+#Tentang {background-color:#4891d3;}
+#Team {background-color:#c66424;}
+#HubungiKami {background-color:#507650;}
+#Kegiatan {background-color:orange;}
+
+/* ------- Team ------- */
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 10px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: #77acf1;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: black;
+  background-color: #77acf1;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+/* ------- Image overlay ------- */
+.imgcontainer {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.imgcontainer:hover .image {
+  opacity: 0.3;
+}
+
+.imgcontainer:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #04AA6D;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+</style>
+</head>
+<body>
+
+<div id="Tentang" class="tabcontent">
+  <h1>Tentang</h1>
+  <p>Bersama membangun relasi dan belajar menjadi pengajar profesional, inovatif, kreatif, dan berkualitas</p>
+  <p>Indonesia Digital Teacher merupakan sebuah komunitas yang berkonsentrasi pada peningkatan kompetensi para pelajar, mahasiswa, guru, dosen, praktisi pendidikan dan masyarakat umum dengan memanfaatkan perangkat lunak yang bebas dan berbasis kode sumber terbuka ( Free Open Source Software ).
+  Di dunia maya kita menemukan banyak perangkat lunak yang bisa kita manfaatkan untuk membantu pekerjaan. IDT Mengadakan kegiatan dalam jaringan dan menjadi wadah bagi seluruh guru di Indonesia untuk meningkatkan potensi diri dan menjadi pengajar yang inovatif. Bersama membangun relasi dan belajar menjadi pengajar profesional, inovatif, kreatif, dan berkualitas.
+  Kembangkan keahlian Anda dengan mengikuti pelatihan-pelatihan berbasis Free and Open Source Software(FOSS). Indonesia Digital Teacher (IDT) merupakan Satu satunya komunitas di Indonesia yang memberikan pelatihan tentang pemanfaatan FOSS dalam kehidupan sehari-hari, terutama di bidang pendidikan.
+  Belajar hal baru, setiap materi pelatihan yang ada di IDT diajarkan oleh instruktur profesional sehingga Anda bisa belajar hal baru tentang dunia FOSS setiap saat, kapanpun dan dimanapun.
+  Jadilah bagian dari peserta yang ingin meningkatkan kualitas dan mengembangkan diri bersama Indonesia Digital Teacher.
+
+  Learn more and contribute on [GitHub](https://github.com/gohugoio).</p>
+</div>
+
+<div id="Team" class="tabcontent">
+  <h1>Team</h1>
+  <div class="row">
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Ferilee" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Ferilee</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">CEO & Founder</p>
+        <p>Guru Matematika</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Abdul Kholiq" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Abdul Kholiq</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">Penasihat</p>
+        <p>Guru TIK</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Gunanto" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Gunanto</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">Leader</p>
+        <p>Guru Matematika</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Rafiqah Awalyatun" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Rafiqah Awalyatun</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">Bendahara</p>
+        <p>Guru Matematika</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Ferilee" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Ferilee</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">CEO & Founder</p>
+        <p>Guru Matematika</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Abdul Kholiq" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Abdul Kholiq</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">Penasihat</p>
+        <p>Guru TIK</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Gunanto" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Gunanto</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">Leader</p>
+        <p>Guru Matematika</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="imgcontainer">
+        <img src="https://i.ibb.co/f9GWDCx/ferilee3-D.png" alt="Rafiqah Awalyatun" class="image" style="width:100%">
+        <div class="middle">
+          <div class="text">Rafiqah Awalyatun</div>
+        </div>
+      </div>
+      <div class="container">
+        <p class="title">Bendahara</p>
+        <p>Guru Matematika</p>
+        <p><button class="button">Hubungi via Telegram</button></p>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<div id="HubungiKami" class="tabcontent">
+  <h1>Hubungi Kami</h1>
+  <p>Hubungi Kami is the capital of Japan.</p>
+</div>
+
+<div id="Kegiatan" class="tabcontent">
+  <h1>Kegiatan</h1>
+  <p>Kegiatan is the capital of Norway.</p>
+</div>
+
+<button class="tablink" onclick="openCity('Tentang', this, '#4891d3')" id="defaultOpen">Tentang</button>
+<button class="tablink" onclick="openCity('Team', this, '#c66424')">Team</button>
+<button class="tablink" onclick="openCity('HubungiKami', this, '#507650')">Hubungi</button>
+<button class="tablink" onclick="openCity('Kegiatan', this, 'orange')">Kegiatan</button>
+
+<script>
+function openCity(cityName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(cityName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+
+}
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+</body>
+</html>
