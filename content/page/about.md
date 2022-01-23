@@ -15,3 +15,4 @@ menu:
 ---
 
 {{< tab >}}
+{{< cvferilee >}}
