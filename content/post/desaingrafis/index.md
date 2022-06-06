@@ -1,17 +1,16 @@
 ---
-title: "Belajar Desain Grafis dengan Canva"
-date: 2022-06-05T22:24:13+07:00
+title: "Desain Grafis Kekinian"
+date: 2022-06-05T20:00:00+07:00
 draft: false
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-image: "canva.webp"
-
-slug: desaingrafis
+image: "Linux.png"
+slug: linux
 tags: ["desain", "grafis", "desain grafis"]
 categories:
     - idetorial
     - FOSS
 ---
-{{< desaingrafis >}}\
 
 {{< canvaedu >}}\
+Edit pakai acode
