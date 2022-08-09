@@ -115,5 +115,3 @@ Siapapun bisa bekerja secara kolaboratif di Canva. Setiap orang bisa mengubah de
 
 ## Tugas Proyek
 Silakan buat desain media pembelajaran sesuai mapel yang diampu dan kemudian diekspor dalam bentuk video dengan format mp4. Hasilnya diunggah ke media sosial (facebook, instagram, youtube, dan lain-lain).
-
-{{< canva >}}

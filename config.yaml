@@ -1,4 +1,4 @@
-baseurl: https://blog-idt.netlify.app
+baseurl: https://blog-idt.feri-lee.my.id
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
